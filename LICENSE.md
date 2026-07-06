@@ -1,4 +1,4 @@
-# 
+# Seguro MEV arbitrage bot plantillas para Mac OS | Ligero MEV arbitrage bot plantillas para PC Windows. Con control de deslizamiento y análisis de volumen — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
